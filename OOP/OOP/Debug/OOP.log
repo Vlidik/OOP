@@ -1,0 +1,57 @@
+﻿  Pentagon.cpp
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(5): error C2661: 'Pentagon::Pentagon': no overloaded function takes 2 arguments
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(9): error C2511: 'Pentagon::Pentagon(std::size_t,std::size_t)': overloaded member function not found in 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(9): error C2550: 'Pentagon::{ctor}': constructor initializer lists are only allowed on constructor definitions
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(10): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(11): error C2597: illegal reference to non-static member 'Pentagon::rad'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(17): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(21): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(30): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(30): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(35): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(40): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(49): error C2039: 'Side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(51): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(55): error C2600: 'Pentagon::operator =': cannot define a compiler-generated special member function (must be declared in the class first)
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(62): error C2065: 'side': undeclared identifier
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(62): note: This diagnostic occurred in the compiler generated function 'Pentagon &Pentagon::operator =(const Pentagon &)'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(62): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(62): note: This diagnostic occurred in the compiler generated function 'Pentagon &Pentagon::operator =(const Pentagon &)'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(68): error C2039: '++': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(70): error C2065: 'side': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(71): error C2065: 'rad': undeclared identifier
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(72): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(77): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(77): error C2248: 'Pentagon::rad': cannot access private member declared in class 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(26): note: see declaration of 'Pentagon::rad'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(77): error C2440: '<function-style-cast>': cannot convert from 'std::size_t' to 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(77): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(82): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(83): error C2248: 'Pentagon::rad': cannot access private member declared in class 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(26): note: see declaration of 'Pentagon::rad'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(89): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(90): error C2248: 'Pentagon::rad': cannot access private member declared in class 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(26): note: see declaration of 'Pentagon::rad'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(95): error C2039: 'side': is not a member of 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.cpp(96): error C2248: 'Pentagon::rad': cannot access private member declared in class 'Pentagon'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(26): note: see declaration of 'Pentagon::rad'
+  c:\users\ипи\documents\visual studio 2015\projects\oop\oop\pentagon.h(9): note: see declaration of 'Pentagon'
+  Hexagon.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Rhomb.cpp

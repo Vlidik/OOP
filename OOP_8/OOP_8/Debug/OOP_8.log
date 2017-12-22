@@ -1,0 +1,17 @@
+﻿  main.cpp
+  Tree.cpp
+c:\users\ипи\documents\visual studio 2015\projects\oop_8\oop_8\tree.cpp(321): warning C4661: 'void Tree<Figure>::ParSort(std::shared_ptr<T> *&,int,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Figure
+          ]
+  c:\users\ипи\documents\visual studio 2015\projects\oop_8\oop_8\tree.h(28): note: see declaration of 'Tree<Figure>::ParSort'
+c:\users\ипи\documents\visual studio 2015\projects\oop_8\oop_8\tree.cpp(5): warning C4661: 'void Tree<Figure>::ParSort(std::shared_ptr<T> *&,int,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Figure
+          ]
+  c:\users\ипи\documents\visual studio 2015\projects\oop_8\oop_8\tree.h(28): note: see declaration of 'Tree<Figure>::ParSort'
+  Generating Code...
+  OOP_8.vcxproj -> C:\Users\ипи\Documents\Visual Studio 2015\Projects\OOP_8\Debug\OOP_8.exe
+  OOP_8.vcxproj -> C:\Users\ипи\Documents\Visual Studio 2015\Projects\OOP_8\Debug\OOP_8.pdb (Partial PDB)
